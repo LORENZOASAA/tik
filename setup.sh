@@ -29,7 +29,7 @@ export LANG=it_IT.UTF-8
 nano /etc/vconsole.conf
 	# scriviamo al suo interno
 		# KEYMAP=it
-        # EDITOR=nano
+                # EDITOR=nano
 	# infine Premiamo CTRL + O per salvare, poi INVIO e infine CTR  + X.
 export EDITOR=nano
 ln -s /usr/share/zoneinfo/Europe/Rome /etc/localtime
